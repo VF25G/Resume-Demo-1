@@ -1,0 +1,2 @@
+*{margin:0;padding:0}*,:after,:before{box-sizing:border-box}#divVisual{word-break:break-all;position:fixed;left:50%;transform:translateX(-50%);top:20px}#divVisual:after,#divVisual:before{content:"";display:block;position:absolute}@media (max-width:500px){#pageHtml{overflow:auto}#divVisualWrapper,#pageHtml{height:50vh}#divVisual{position:relative;top:0;right:0}}
+/*# sourceMappingURL=style.3cab4529.css.map */
